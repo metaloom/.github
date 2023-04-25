@@ -1,6 +1,6 @@
 Welcome to the Metaloom project, a collection of repositories dedicated to the development of media solutions, including the Loom DAM and related projects.
 
-[![](https://dcbadge.vercel.app/api/server/NCU9tWGz3v)](https://discord.gg/NCU9tWGz3v)
+[![](https://dcbadge.vercel.app/api/server/3Dy2SxKUtw)](https://discord.gg/3Dy2SxKUtw)
 
 ## Loom
 
