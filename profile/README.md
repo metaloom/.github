@@ -19,6 +19,10 @@ Welcome to the Metaloom project, a collection of repositories dedicated to the d
 * [Hash Utils](https://github.com/metaloom/hash-utils)
 * [JavaQuadTree](https://github.com/metaloom/JavaQuadTree)
 
+## Vert.x
+
+* [Vert.x Web OpenAPI](https://github.com/metaloom/vertx-web-openapi)
+
 ## Testing
 
 * [Loom Test Environment](https://github.com/metaloom/loom-test-env)
@@ -34,5 +38,6 @@ Welcome to the Metaloom project, a collection of repositories dedicated to the d
 ## Maven
 
 * [Maven Parent](https://github.com/metaloom/maven-parent)
+* [Maven Vert.x Parent](https://github.com/metaloom/maven-vertx-parent)
 * [Maven Loom Parent](https://github.com/metaloom/maven-loom-parent)
 * [Loom BOM](https://github.com/metaloom/loom-bom)
