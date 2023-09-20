@@ -6,6 +6,7 @@ Welcome to the Metaloom project, a collection of repositories dedicated to the d
 
 * [Loom](https://github.com/metaloom/loom)
 * [Loom // Cortex](https://github.com/metaloom/loom-cortex)
+* [Loom Shared](https://github.com/metaloom/loom-shared)
 
 ## Video4j
 
