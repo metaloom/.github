@@ -5,6 +5,7 @@ Welcome to the Metaloom project, a collection of repositories dedicated to the d
 ## Loom
 
 * [Loom](https://github.com/metaloom/loom)
+* [Loom UI](https://github.com/metaloom/loom-ui)
 * [Loom // Cortex](https://github.com/metaloom/loom-cortex)
 * [Loom Shared](https://github.com/metaloom/loom-shared)
 
