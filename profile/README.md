@@ -21,6 +21,7 @@ Welcome to the Metaloom project, a collection of repositories dedicated to the d
 * [Utils](https://github.com/metaloom/utils)
 * [Hash Utils](https://github.com/metaloom/hash-utils)
 * [JavaQuadTree](https://github.com/metaloom/JavaQuadTree)
+* [GenAI Utils](https://github.com/metaloom/genai-utils)
 
 ## Vert.x
 
