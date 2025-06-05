@@ -16,6 +16,11 @@ Welcome to the Metaloom project, a collection of repositories dedicated to the d
 * [Video4j Fingerprint](https://github.com/metaloom/video4j-fingerprint)
 * [Video4j Facedetect](https://github.com/metaloom/video4j-facedetect)
 
+## Computer Vision
+
+* [InspireFace4j](https://github.com/metaloom/inspireface4j)
+* [YOLO4j](https://github.com/metaloom/yolo4j)  
+
 ## Utils
 
 * [Utils](https://github.com/metaloom/utils)
